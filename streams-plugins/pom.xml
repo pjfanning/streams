@@ -34,7 +34,7 @@
     <name>streams-plugins</name>
 
     <properties>
-        <maven-plugin.version>3.6.3</maven-plugin.version>
+        <maven-plugin.version>3.8.1</maven-plugin.version>
         <maven-aether-provider.version>3.3.9</maven-aether-provider.version>
         <maven-plugin-plugin.version>3.6.0</maven-plugin-plugin.version>
         <maven-plugin-tools.version>3.6.0</maven-plugin-tools.version>
